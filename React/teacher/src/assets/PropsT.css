@@ -1,0 +1,246 @@
+#trialOne
+{
+    width: 150px;
+    display: flex;
+    background-color:#a0eae5;
+    border: white; 
+}
+.d-flexone
+{
+    border-radius:2%;           /*Side-Bar*/
+    height: 695px;
+    background-color: #053B50;
+}
+.d-flex
+{
+    height: 100px;  
+}
+.bdy
+{
+    background-image: linear-gradient(#053B50,whitesmoke);
+}
+.fs-3
+{
+    color: white;
+}
+.mainTitle
+{
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    border: 2px solid black;
+}
+#trialOne
+{
+    width: 150px;
+    display: flex;
+    background-color:#a0eae5;
+    border: white; 
+}
+.d-flexone
+{
+    border-radius:2%;           /*Side-Bar*/
+    height: 695px;
+    background-color: #053B50;
+}
+.d-flex
+{
+    height: 100px;  
+}
+#root
+{
+    background-image: linear-gradient(#053B50,whitesmoke);
+}
+.fs-3
+{
+    color: white;
+    text-align:left;
+    font-size: small;
+}
+.card
+{
+    margin: 2px;
+    height: 100px;
+}
+.cardOne
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+.card-img-top
+{
+    height: 200px;
+    border-radius: 2%;
+}
+.card-body
+{
+    margin-left: 10px;
+}
+.btn
+{
+    margin-left: 2px;
+}
+.fs-3
+{
+    color: white;
+    text-align:left;
+    font-size: small;
+}
+.card
+{
+    margin: 2px;
+    height: 100px;
+}
+.cardOne
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+.card-img-top
+{
+    height: 200px;
+    border-radius: 2%;
+}
+.card-body
+{
+    margin-left: 10px;
+}
+.btn
+{
+    margin-left: 2px;
+}
+.Options
+{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    text-align: center;
+    font-size: larger;
+    gap: 45px;
+    padding-left: 15px;
+    padding: 10px;
+}
+.cardOne
+{
+    display: flex;
+    flex-direction: row;
+}
+.card-img-top
+{
+    height: 200px;
+    border-radius: 2%;
+}
+.card
+{
+    padding: 2px ;
+}
+
+.body
+{
+    background-image: linear-gradient(#053B50,#64CCC5);
+}
+.d-flexone
+{
+    border-radius:2%;           
+    height:695px;
+    background-color: #053B50;
+}
+.d-flex
+{
+    height: 100px;  
+}
+#StudBtn
+{
+    width: 150px;
+    display: flex;
+    background-color:red;  
+    border: red;
+}
+#trialOne
+{
+    width: 150px;
+    display: flex;
+    background-color:#a0eae5;
+    border: white; 
+}
+.fs-3
+{
+    color:white;
+}
+#txt
+{
+    text-align: center;
+}
+
+.dropbtn {
+    background-color:lightgrey;
+    color:black;
+    padding: 8px;
+    font-size: 20px;
+    border: 1px;
+    cursor: pointer;
+    
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #4f5a61;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    list-style-type: disc;
+    margin: 20px;
+  }
+
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 12px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
+.page
+{
+    display: flex;
+    flex-direction: row;
+}
+.border
+{
+    background-color: white;
+    height: 500px;
+    width: 750px;
+    border-radius: 1%;
+    margin: 50px;
+}
+.drops
+{
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 10px;  
+}
