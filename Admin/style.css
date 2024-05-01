@@ -8,8 +8,8 @@
 }
 .d-flexone
 {
-    border-radius:2%;           /Side-Bar/
-    height : 800px;
+    border-radius:2%;           
+    height: 750px;
     background-color: #053B50;
 }
 .d-flex
@@ -70,4 +70,17 @@
 {
     display:flex;
     gap: 10px;
+}
+.email
+{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
+.email_main
+{
+    display: flex;
+    flex-direction: row;
 }
