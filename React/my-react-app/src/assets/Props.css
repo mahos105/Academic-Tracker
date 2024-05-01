@@ -1,0 +1,103 @@
+.mainTitle
+{
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    border: 2px solid black;
+}
+#trialOne
+{
+    width: 150px;
+    display: flex;
+    background-color:#a0eae5;
+    border: white; 
+}
+.d-flexone
+{
+    border-radius:2%;           /*Side-Bar*/
+    height: 695px;
+    background-color: #053B50;
+}
+.d-flex
+{
+    height: 100px;  
+}
+#root
+{
+    background-image: linear-gradient(#053B50,whitesmoke);
+}
+.fs-3
+{
+    color: white;
+    text-align:left;
+    font-size: small;
+}
+.card
+{
+    margin: 2px;
+    height: 100px;
+}
+.cardOne
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+.card-img-top
+{
+    height: 200px;
+    border-radius: 2%;
+}
+.card-body
+{
+    margin-left: 10px;
+}
+.btn
+{
+    margin-left: 2px;
+}
+.marquee{
+    width:100%;
+    background-color: #a0eae5;
+    padding: 20px;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 5px;
+}
+.LowerCards
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 250px;
+}
+.btn:hover {
+    transform: translateY(-5px);
+}
+
+.card:hover
+{
+    transform: translateY(-5px);
+}
+.p-2:hover
+{
+    background-color: white;
+    color: blue;
+    border-radius: 5%;
+}
+
+.piechart { 
+    margin-top: 20px; 
+    margin-left: 250px;
+    display: block;  
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    background-image: conic-gradient( 
+        rgb(247, 39, 39) 18deg,    
+        rgb(52, 165, 52) 0); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+} 

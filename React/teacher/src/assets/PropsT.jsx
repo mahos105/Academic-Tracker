@@ -16,6 +16,21 @@ function Button(props)
     )
 }
 
+function Cards(props)
+{
+  return(
+    <div className="card" style={{ width: "18rem" }}>
+  <img src={props.src} className="card-img-top" alt={props.alt} />
+  <div className="card-body">
+    <h5 className="card-title">Academic</h5>
+    <a href="#" className="btn btn-primary">{props.btn1}</a>
+    <a href="#" className="btn btn-danger">{props.btn2}</a>
+  </div>
+</div>
+
+  )
+}
+
 function LogOut()
 {
     return (
@@ -252,4 +267,4 @@ function AttendOver()
     )
 }
 
-export {SidebarT,TimetableT,SylCard,AttendOver,Attendance}
+export {Cards,SidebarT,TimetableT,SylCard,AttendOver,Attendance}

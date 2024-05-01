@@ -1,0 +1,7 @@
+.months_common
+{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    margin-top: 50px;
+}
