@@ -1,5 +1,5 @@
 import React from "react";
-import { Cards } from "../PropsT";
+
 import "/src/assets/PropsT.css"
 function HomeT()
 {
